@@ -281,7 +281,7 @@
     "source-map-explorer": "^2.4.2",
     "string.prototype.matchall": "^4.0.2",
     "style-loader": "^0.21.0",
-    "stylelint": "^13.6.1",
+    "stylelint": "^14.0.0",
     "through2": "^2.0.3",
     "ttest": "^2.1.1",
     "vinyl-buffer": "^1.0.1",
