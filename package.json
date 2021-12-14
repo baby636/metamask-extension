@@ -192,7 +192,7 @@
     "@storybook/addon-backgrounds": "^5.3.14",
     "@storybook/addon-knobs": "^5.3.14",
     "@storybook/core": "^5.3.14",
-    "@storybook/react": "^5.3.14",
+    "@storybook/react": "^6.2.0",
     "@storybook/storybook-deployer": "^2.8.6",
     "@testing-library/react": "^10.4.8",
     "@testing-library/react-hooks": "^3.2.1",
