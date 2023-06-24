@@ -287,7 +287,7 @@
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.41.6"
+    "webpack": "^5.1.1"
   },
   "engines": {
     "node": "^10.18.1",
