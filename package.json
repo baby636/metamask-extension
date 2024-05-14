@@ -191,8 +191,8 @@
     "@storybook/addon-actions": "^5.3.14",
     "@storybook/addon-backgrounds": "^5.3.14",
     "@storybook/addon-knobs": "^5.3.14",
-    "@storybook/core": "^5.3.14",
-    "@storybook/react": "^5.3.14",
+    "@storybook/core": "^6.2.0",
+    "@storybook/react": "^6.2.0",
     "@storybook/storybook-deployer": "^2.8.6",
     "@testing-library/react": "^10.4.8",
     "@testing-library/react-hooks": "^3.2.1",
@@ -232,7 +232,7 @@
     "ganache-core": "^2.13.1",
     "geckodriver": "^1.19.1",
     "get-port": "^5.1.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-debug": "^3.2.0",
@@ -286,8 +286,8 @@
     "ttest": "^2.1.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
-    "watchify": "^3.11.1",
-    "webpack": "^4.41.6"
+    "watchify": "^4.0.0",
+    "webpack": "^5.0.0"
   },
   "engines": {
     "node": "^10.18.1",
