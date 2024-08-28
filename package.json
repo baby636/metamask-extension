@@ -191,8 +191,8 @@
     "@storybook/addon-actions": "^5.3.14",
     "@storybook/addon-backgrounds": "^5.3.14",
     "@storybook/addon-knobs": "^5.3.14",
-    "@storybook/core": "^5.3.14",
-    "@storybook/react": "^5.3.14",
+    "@storybook/core": "^6.0.0",
+    "@storybook/react": "^6.5.0",
     "@storybook/storybook-deployer": "^2.8.6",
     "@testing-library/react": "^10.4.8",
     "@testing-library/react-hooks": "^3.2.1",
@@ -287,7 +287,7 @@
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.41.6"
+    "webpack": "^5.94.0"
   },
   "engines": {
     "node": "^10.18.1",
