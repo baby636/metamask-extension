@@ -286,7 +286,7 @@
     "ttest": "^2.1.1",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0",
-    "watchify": "^3.11.1",
+    "watchify": "^4.0.0",
     "webpack": "^4.41.6"
   },
   "engines": {
