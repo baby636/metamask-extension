@@ -249,7 +249,7 @@
     "gulp-watch": "^5.0.1",
     "gulp-zip": "^4.0.0",
     "jsdom": "^11.2.0",
-    "koa": "^2.7.0",
+    "koa": "^3.0.1",
     "lavamoat-core": "^6.1.0",
     "lockfile-lint": "^4.0.0",
     "mocha": "^7.2.0",
